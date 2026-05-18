@@ -1,0 +1,50 @@
+# Dossiers R inutiles
+R/bin/
+R/doc/
+R/etc/
+R/include/
+R/modules/
+R/share/
+R/src/
+R/Tcl/
+R/tests/
+
+# Packages de base R
+R/library/base/
+R/library/boot/
+R/library/class/
+R/library/cluster/
+R/library/codetools/
+R/library/compiler/
+R/library/datasets/
+R/library/foreign/
+R/library/graphics/
+R/library/grDevices/
+R/library/grid/
+R/library/KernSmooth/
+R/library/lattice/
+R/library/MASS/
+R/library/Matrix/
+R/library/methods/
+R/library/mgcv/
+R/library/nlme/
+R/library/nnet/
+R/library/parallel/
+R/library/rpart/
+R/library/spatial/
+R/library/splines/
+R/library/stats/
+R/library/stats4/
+R/library/survival/
+R/library/tcltk/
+R/library/tools/
+R/library/translations/
+R/library/utils/
+
+# Outputs générés
+output/
+
+# Fichiers temporaires R
+.Rhistory
+.RData
+.Rproj.user/
